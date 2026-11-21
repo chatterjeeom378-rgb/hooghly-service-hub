@@ -1,0 +1,19 @@
+{
+  "name": "hooghly-service-hub",
+  "version": "2.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "leaflet": "^1.9.4",
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
